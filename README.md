@@ -39,7 +39,7 @@ Yes.
 
 **Live URL**
 
-[https://hourly-pass-generator.vercel.app](https://pass-gen.prashantrewar.app/password)
+[[https://hourly-pass-generator.vercel.app](https://pass-gen.prashantrewar.app/password)](https://pass-gen.prashantrewar.app/password)
 
 ### How To Use
 
